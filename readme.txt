@@ -9,3 +9,7 @@ What's changed?
 - added BNB, ETH
 - fixed API, changed to binance
 - corrected RegEXP robustness
+
+How to install?
+- Download as zip
+- extract content to Rainmeter > skins > [new folder]
